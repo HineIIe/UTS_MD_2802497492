@@ -1,3 +1,6 @@
+import os
+st.write("Files in root:", os.listdir())
+
 import streamlit as st
 import pandas as pd
 import numpy as np
