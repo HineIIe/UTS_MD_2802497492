@@ -3,8 +3,4 @@ pandas
 numpy
 scikit-learn
 joblib
-requests
-fastapi
-uvicorn
-mlflow
 xgboost
